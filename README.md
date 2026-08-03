@@ -98,7 +98,7 @@ dell-latitude-5410-hackintosh-macos-tahoe-26/
 │ │ └── Resources/
 │ └── BOOT/
 ├── tools/ # Tool links and notes
-└── screenshots/ 
+└── screenshots/ #proof
 ---
 
 ## ⚠️ Important Notes
