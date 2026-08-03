@@ -87,20 +87,24 @@ Read the full 2,358-word saga here: [`STORY.md`](STORY.md)
 
 ## 📂 Repository Structure 
 dell-latitude-5410-hackintosh-macos-tahoe-26/
-├── README.md # You're here
-├── STORY.md # Full 2,358-word saga
-├── EFI/ # OpenCore EFI (sanitized)
-│ ├── OC/
-│ │ ├── config.plist
-│ │ ├── ACPI/
-│ │ ├── Drivers/
-│ │ ├── Kexts/
-│ │ └── Resources/
-│ └── BOOT/
-├── tools/ # Tool links and notes
-└── screenshots/ #proof
----
+│
+├── README.md                 # Technical overview (short, ~300 words)
+├── STORY.md                  # Your full 2,358-word saga
+├── EFI/                      # OpenCore EFI folder (if not zipped)
+│   ├── OC/
+│   │   ├── config.plist
+│   │   ├── ACPI/
+│   │   ├── Drivers/
+│   │   ├── Kexts/
+│   │   └── Resources/
+│   └── BOOT/
+│
+├── EFI.zip                   # OR zipped version (if you uploaded this)
+├── screenshots/              # Optional
+│   └── desktop.png
+└── tools.md                  # Optional - list of tools with links
 
+---
 ## ⚠️ Important Notes
 
 1. **Sanitize your config.plist** — Replace `MLB`, `SystemUUID`, and `ROM` with your own values.
