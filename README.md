@@ -72,10 +72,10 @@ Built by a 17-year-old who broke his screen, lost his partition, survived a 40GB
 
 ---
 
-## 📖 The Story
+## 📖 The Full Story
 
-This wasn't a smooth install. Read the full 2,358-word saga here:  
-👉 **[STORY.md](STORY.md)**
+Read the complete 2,358-word saga here:  
+👉 **[STORY.pdf](STORY.pdf)**
 
 It covers:
 - The pen incident (shattered screen)
@@ -86,4 +86,39 @@ It covers:
 
 ---
 
-## 📂 Repository Structure
+## ⚠️ Important Notes
+
+1. **Sanitize your config.plist** — Replace `MLB`, `SystemUUID`, and `ROM` with your own values before using.
+2. **Don't use this EFI as-is** — Every machine is different. Use this as a reference.
+3. **Reset NVRAM** after making changes to your EFI.
+4. **Back up your working EFI** before experimenting.
+
+---
+
+## 🔗 Resources
+
+- [Dortania OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/) — The Hackintosh Bible
+- [Dell Latitude 5410 Support](https://www.dell.com/support/home/en-us/product-support/product/latitude-14-5410-laptop/docs)
+
+---
+
+## 🙏 Credits
+
+| Person / Project | Contribution |
+|------------------|--------------|
+| **Rohtu** | Inspiration to try |
+| **Dortania** | The OpenCore guide |
+| **Acidanthera** | OpenCore & kexts |
+| **Hackintosh Community** | Keeping it alive |
+
+---
+
+## 🏁 Final Words
+
+> "You don't need a Mac to run macOS. You need patience, Google, and the willingness to try something stupid."
+
+— Chirag S Shetty, 17
+
+---
+
+**Built with frustration, caffeine, and a broken screen.**
