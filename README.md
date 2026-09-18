@@ -178,7 +178,7 @@ Built by a 17-year-old who broke his screen, lost his partition, survived a 40GB
 
 ## 🏁 Final Words
 
-> "You don't need a Mac to run macOS. You need patience, Google, and the willingness to try something stupid."
+> "You don't need a Mac to run macOS. You need patience, Google, DeepSeek and the willingness to try something stupid."
 
 — Chirag S Shetty, 17
 
